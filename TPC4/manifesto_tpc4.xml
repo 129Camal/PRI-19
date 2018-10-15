@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifesto>
-    <meta nome="Manifesto TPC4">
-        <id>PRI2018::a73639::TPC4</id>
-        <título>Criação de um servidor em NodeJS para criar website com o Arquivo Musical</título>
-        <dfim>15 de Outubro 2018</dfim>
-        <supervisor>
-            <nome>José Carlos Ramalho</nome>
-            <email>jcr@di.uminho.pt</email>
-            <website>http://www4.di.uminho.pt/~jcr/</website>
-        </supervisor>
-    </meta>
-    <equipe>
-        <elemento>
-            <idelemento>a73639</idelemento>
-            <nome>Frederico Daniel Pereira Pinto</nome>
-            <email>a73639@alunos.uminho.pt</email>
-            <github>https://github.com/129Camal/PRI-19</github>
-            <foto path= "frederico.png"/>
-        </elemento>
-    </equipe>
-    <resumo>
-        <para>Este trabalho tinha por objetivo criar um servidor em <i>NodeJS</i> que recebesse pedidos através da porta <i>4002</i> e respondesse com a página html correta.</para>
-        <para>A linguagem utilizada para realizar o servidor foi o <b>Javascript</b>.</para>
-        <para>Associado ao servidor estão páginas <i>html</i> que representam o <i>Arquivo Musical</i> de uma banda. Em que temos o índice e uma página <i>html</i> por cada obra.</para>
-        <para>Relativamente aquilo que foi criado nas aulas apenas alterei as <b>âncoras</b> das páginas <i>html</i>, para não navegarmos nos ficheiros presentes na máquina, mas sim, realizar os pedidos diretamente ao servidor, este analisando-os e respondendo conforme o desejado pelo utilizador.</para>
-    </resumo>
-    <resultados>
-        <resultado path = "server.js">Servidor</resultado>
-        <resultado path = "arquivo-musica-digital.xsl">Ficheiro XSL com os templates para geração das páginas html</resultado>
-        <resultado path = "arquivo-musica-digital.xml">Ficheiro XML com toda a informação sobre o Arquivo Musical</resultado>
-        <resultado path = "website/index.html">Índice do Arquivo Musical</resultado>
-        <resultado path = "website/html/obram1.html">Exemplo de uma obra do Arquivo Musical</resultado>
-    </resultados>
+   <meta nome="Manifesto TPC4">
+      <id>PRI2018::a73639::TPC4</id>
+      <título>Criação de um servidor em NodeJS para criar website com o Arquivo Musical</título>
+      <dfim>15 de Outubro 2018</dfim>
+      <supervisor>
+         <nome>José Carlos Ramalho</nome>
+         <email>jcr@di.uminho.pt</email>
+         <website>http://www4.di.uminho.pt/~jcr/</website>
+      </supervisor>
+   </meta>
+   <equipe>
+      <elemento>
+         <idelemento>a73639</idelemento>
+         <nome>Frederico Daniel Pereira Pinto</nome>
+         <email>a73639@alunos.uminho.pt</email>
+         <foto path= "frederico.png"/>
+      </elemento>
+   </equipe>
+   <resumo>
+      <para>Este trabalho tinha por objetivo criar um servidor em <i>NodeJS</i> que recebesse pedidos através da porta <i>4002</i> e respondesse com a página html correta.</para>
+      <para>A linguagem utilizada para realizar o servidor foi o <b>Javascript</b>.</para>
+      <para>Associado ao servidor estão páginas <i>html</i> que representam o <i>Arquivo Musical</i> de uma banda. Em que temos o índice e uma página <i>html</i> por cada obra.</para>
+      <para>Relativamente aquilo que foi criado nas aulas apenas alterei as <b>âncoras</b> das páginas <i>html</i>, para não navegarmos nos ficheiros presentes na máquina, mas sim, realizar os pedidos diretamente ao servidor, este analisando-os e respondendo conforme o desejado pelo utilizador.</para>
+   </resumo>
+   <resultados>
+      <resultado path = "server.js">Servidor</resultado>
+      <resultado path = "arquivo-musica-digital.xsl">Ficheiro XSL com os templates para geração das páginas html</resultado>
+      <resultado path = "arquivo-musica-digital.xml">Ficheiro XML com toda a informação sobre o Arquivo Musical</resultado>
+      <resultado path = "website/index.html">Índice do Arquivo Musical</resultado>
+      <resultado path = "website/html/obram1.html">Exemplo de uma obra do Arquivo Musical</resultado>
+   </resultados>
 </manifesto>
