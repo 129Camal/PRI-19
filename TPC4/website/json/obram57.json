@@ -1,0 +1,272 @@
+
+        {"Id": "m57",
+        "Titulo": "ABBA Gold",
+        "Tipo": "Ligeiro/Fantasia"
+        
+        
+        ,"Compositor": "ABBA"
+        
+        ,"Arranjo de": "Ron Sebregts"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Bateria",
+                    
+                    "Path": "ABBAgold-bateria.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Bombo",
+                    
+                    "Path": "ABBAgold-bombo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Caixa",
+                    
+                    "Path": "ABBAgold-caixa.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "ABBAgold-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "ABBAgold-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "ABBAgold-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Corneta",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "ABBAgold-corneta1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Corneta",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "ABBAgold-corneta2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                    "Path": "ABBAgold-eufonio.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "ABBAgold-flauta1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "ABBAgold-flauta1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fliscorne",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "ABBAgold-fliscorne1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fliscorne",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "ABBAgold-fliscorne2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Maestro",
+                    
+                    "Path": "ABBAgold-maestro.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                    "Path": "ABBAgold-oboe.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Percussão",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "ABBAgold-percussao1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Percussão",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "ABBAgold-percussao2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Requinta",
+                    
+                    "Path": "ABBAgold-requinta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "ABBAgold-saxA1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "ABBAgold-saxA2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "ABBAgold-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Soprano",
+                    
+                    "Path": "ABBAgold-saxS.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                    "Path": "ABBAgold-saxT.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "ABBAgold-timpanos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "ABBAgold-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "ABBAgold-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "ABBAgold-trombone3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "ABBAgold-trompa1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "ABBAgold-trompa1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "ABBAgold-trompa3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "IV",    
+                    
+                    "Path": "ABBAgold-trompa4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "ABBAgold-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "ABBAgold-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "ABBAgold-trompete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                    "Path": "ABBAgold-tuba.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

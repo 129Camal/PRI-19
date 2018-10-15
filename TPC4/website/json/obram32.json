@@ -1,0 +1,192 @@
+
+        {"Id": "m32",
+        "Titulo": "Cavalaria Ligeira",
+        "Tipo": "Abertura/Concerto"
+        
+        
+        ,"Compositor": "Franz Von Suppé"
+        
+        ,"Arranjo de": "Charles Godfrey"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "Solo",    
+                    
+                    "Path": "CavalariaLigeira-clarinete-solo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "CavalariaLigeira-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "CavalariaLigeira-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "CavalariaLigeira-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                    "Path": "CavalariaLigeira-eufonio.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                    "Path": "CavalariaLigeira-flauta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Maestro",
+                    
+                    "Path": "CavalariaLigeira-maestro.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Percussão",
+                    
+                    "Path": "CavalariaLigeira-percussao.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                    "Path": "CavalariaLigeira-saxA.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "CavalariaLigeira-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                    "Path": "CavalariaLigeira-saxT.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone Baixo",
+                    
+                    "Path": "CavalariaLigeira-trombone-baixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "CavalariaLigeira-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "CavalariaLigeira-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "CavalariaLigeira-trombone3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "CavalariaLigeira-trompa1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "CavalariaLigeira-trompa2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "CavalariaLigeira-trompa3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "IV",    
+                    
+                    "Path": "CavalariaLigeira-trompa4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "CavalariaLigeira-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "CavalariaLigeira-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "CavalariaLigeira-trompete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                        "Clave": "Fá"    
+                    
+                    "Path": "CavalariaLigeira-tuba.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                        "Clave": "Sol"    
+                    
+                    "Path": "CavalariaLigeira-tuba-sol.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

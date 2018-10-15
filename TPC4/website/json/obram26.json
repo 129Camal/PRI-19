@@ -1,0 +1,20 @@
+
+        {"Id": "m26",
+        "Titulo": "Cycles and Myths",
+        "Tipo": "Abertura/Concerto"
+        
+        
+        ,"Compositor": "Nuno Osório"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "All",
+                    
+                    "Path": "CyclesMyths-all.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

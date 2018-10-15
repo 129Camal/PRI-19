@@ -1,0 +1,262 @@
+
+        {"Id": "m31",
+        "Titulo": "Highlights from 'Chess'",
+        "Tipo": "Abertura/Concerto"
+        
+        
+        ,"Compositor": "Ulvaeus Andersson"
+        
+        ,"Arranjo de": "Johan de Meij"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "All",
+                    
+                    "Path": "HighlightsChess-all.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Alto",
+                    
+                    "Path": "HighlightsChess-clarinete-alto.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Baixo",
+                    
+                    "Path": "HighlightsChess-clarinete-baixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "HighlightsChess-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "HighlightsChess-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "HighlightsChess-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Contrabaixo",
+                    
+                    "Path": "HighlightsChess-contrabaixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Corne Inglês",
+                    
+                    "Path": "HighlightsChess-corne-ingles.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                    "Path": "HighlightsChess-eufonio.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fagote",
+                    
+                    "Path": "HighlightsChess-fagote.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                    "Path": "HighlightsChess-flauta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flautim",
+                    
+                    "Path": "HighlightsChess-flautim.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Harpa",
+                    
+                    "Path": "HighlightsChess-harpa-piano.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Piano",
+                    
+                    "Path": "HighlightsChess-harpa-piano.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                    "Path": "HighlightsChess-oboe.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Percussão",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "HighlightsChess-percussao1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Percussão",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "HighlightsChess-percussao1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Percussão",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "HighlightsChess-percussao3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Requinta",
+                    
+                    "Path": "HighlightsChess-requinta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "HighlightsChess-saxA1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "HighlightsChess-saxA2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "HighlightsChess-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                    "Path": "HighlightsChess-saxT.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "HighlightsChess-timpanos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "HighlightsChess-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "HighlightsChess-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "HighlightsChess-trombone3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "HighlightsChess-trompa1-3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "HighlightsChess-trompa1-3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "HighlightsChess-trompa2-4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "IV",    
+                    
+                    "Path": "HighlightsChess-trompa2-4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "HighlightsChess-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "HighlightsChess-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "HighlightsChess-trompete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                    "Path": "HighlightsChess-tuba.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

@@ -1,0 +1,216 @@
+
+        {"Id": "m25",
+        "Titulo": "Português Suave",
+        "Tipo": "Rapsódia"
+        
+        
+        ,"Compositor": "Carlos Marques"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "PtSuave-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Bateria",
+                    
+                    "Path": "PtSuave-bateria.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "PtSuave-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "PtSuave-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "PtSuave-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Clave": "Sol"    
+                    
+                    "Path": "PtSuave-eufonio-sol.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "PtSuave-flauta1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "PtSuave-flauta1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flautim",
+                    
+                    "Path": "PtSuave-flautim.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Pandeireta",
+                    
+                    "Path": "PtSuave-pandeireta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Percussão",
+                    
+                    "Path": "PtSuave-percussao.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Requinta",
+                    
+                    "Path": "PtSuave-requinta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "PtSuave-saxA1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "PtSuave-saxA1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Soprano",
+                    
+                    "Path": "PtSuave-saxS.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                    "Path": "PtSuave-saxT.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "PtSuave-timpanos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone Baixo",
+                    
+                    "Path": "PtSuave-trombone-baixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "PtSuave-trombone1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "PtSuave-trombone1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "PtSuave-trompa1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "PtSuave-trompa1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "PtSuave-trompa3-4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "IV",    
+                    
+                    "Path": "PtSuave-trompa3-4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "PtSuave-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "PtSuave-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "PtSuave-trompete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                    "Path": "PtSuave-tuba.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

@@ -1,0 +1,262 @@
+
+        {"Id": "m71",
+        "Titulo": "Jerusalen",
+        "Tipo": "Marcha de Procissão"
+        
+        
+        ,"Compositor": "José Velez Garcia"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Contrabaixo",
+                    
+                        "Afinação": "Dó",    
+                    
+                    "Path": "Jerusalen-baixo-do.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Bombo",
+                    
+                    "Path": "Jerusalen-bombo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Caixa",
+                    
+                    "Path": "Jerusalen-caixa.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Baixo",
+                    
+                    "Path": "Jerusalen-clarinete-baixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "Solo",    
+                    
+                    "Path": "Jerusalen-clarinete-solo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Jerusalen-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Jerusalen-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Jerusalen-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Afinação": "Dó",    
+                    
+                        "Voz": "I",    
+                    
+                        "Clave": "Fá"    
+                    
+                    "Path": "Jerusalen-eufonio1-fa-do.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Afinação": "Dó",    
+                    
+                        "Voz": "II",    
+                    
+                        "Clave": "Fá"    
+                    
+                    "Path": "Jerusalen-eufonio2-fa-do.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fagote",
+                    
+                    "Path": "Jerusalen-fagote.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Jerusalen-flauta1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Jerusalen-flauta2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fliscorne",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Jerusalen-fliscorne1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fliscorne",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Jerusalen-fliscorne2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                    "Path": "Jerusalen-oboe.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Requinta",
+                    
+                    "Path": "Jerusalen-requinta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Jerusalen-saxA1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Jerusalen-saxA2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Jerusalen-saxT1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Jerusalen-saxT2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "Jerusalen-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "Jerusalen-timpanos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Jerusalen-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Jerusalen-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Jerusalen-trombone3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Jerusalen-trompa1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Jerusalen-trompa2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Jerusalen-trompa3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Jerusalen-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Jerusalen-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Jerusalen-trompete3.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

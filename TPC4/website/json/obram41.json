@@ -1,0 +1,160 @@
+
+        {"Id": "m41",
+        "Titulo": "Sonhos de Portugal",
+        "Tipo": "Rapsódia"
+        
+        
+        ,"Arranjo de": "A. Madureira da Silva"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Bombo",
+                    
+                    "Path": "SonhosPortugal-bombo-pratos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Pratos",
+                    
+                    "Path": "SonhosPortugal-bombo-pratos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Caixa",
+                    
+                    "Path": "SonhosPortugal-caixa.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "SonhosPortugal-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "SonhosPortugal-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "SonhosPortugal-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "SonhosPortugal-eufonio1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "SonhosPortugal-eufonio2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                    "Path": "SonhosPortugal-flauta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                    "Path": "SonhosPortugal-saxA.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                    "Path": "SonhosPortugal-saxT.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "SonhosPortugal-timpanos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "SonhosPortugal-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "SonhosPortugal-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "SonhosPortugal-trompa1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "SonhosPortugal-trompa2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "SonhosPortugal-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "SonhosPortugal-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "SonhosPortugal-trompete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                        "Clave": "Sol"    
+                    
+                    "Path": "SonhosPortugal-tuba.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

@@ -1,0 +1,242 @@
+
+        {"Id": "m19",
+        "Titulo": "Tarântula",
+        "Tipo": "Marcha de Desfile"
+        
+        
+        ,"Compositor": "Amílcar Morais"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "All",
+                    
+                    "Path": "Tarantula-all.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Bombo",
+                    
+                    "Path": "Tarantula-bombo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Caixa",
+                    
+                    "Path": "Tarantula-caixa.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Baixo",
+                    
+                    "Path": "Tarantula-clarinete-baixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Afinação": "Mib",    
+                    
+                    "Path": "Tarantula-clarinete-mib.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tarantula-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tarantula-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Tarantula-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Contrabaixo",
+                    
+                        "Afinação": "Mib",    
+                    
+                    "Path": "Tarantula-contrabaixo-mib.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tarantula-eufonio1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tarantula-eufonio2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                    "Path": "Tarantula-flauta-flautim.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flautim",
+                    
+                    "Path": "Tarantula-flauta-flautim.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Lira",
+                    
+                    "Path": "Tarantula-lira.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                    "Path": "Tarantula-oboe.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Pratos",
+                    
+                    "Path": "Tarantula-pratos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tarantula-saxA1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tarantula-saxA2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "Tarantula-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Soprano",
+                    
+                    "Path": "Tarantula-saxS.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                    "Path": "Tarantula-saxT.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "Tarantula-timpanos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tarantula-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tarantula-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Tarantula-trombone3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tarantula-trompa1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tarantula-trompa2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Tarantula-trompa3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tarantula-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tarantula-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Tarantula-trompete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                    "Path": "Tarantula-tuba.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

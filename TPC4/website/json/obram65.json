@@ -1,0 +1,274 @@
+
+        {"Id": "m65",
+        "Titulo": "Latin Pop Special",
+        "Tipo": "Ligeiro/Fantasia"
+        
+        
+        ,"Compositor": "M. Taylor, D. Child, P. Barry, R. Rosa"
+        
+        ,"Arranjo de": "Masato Myokoin"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Baixo Elétrico",
+                    
+                    "Path": "LatinPop-baixo-eletrico.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Bateria",
+                    
+                    "Path": "LatinPop-bateria.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Alto",
+                    
+                    "Path": "LatinPop-clarinete-alto.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Baixo",
+                    
+                    "Path": "LatinPop-clarinete-baixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LatinPop-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LatinPop-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "LatinPop-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Congas",
+                    
+                    "Path": "LatinPop-congas.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                    "Path": "LatinPop-eufonio.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fagote",
+                    
+                    "Path": "LatinPop-fagote.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LatinPop-flauta1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LatinPop-flauta1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flautim",
+                    
+                    "Path": "LatinPop-flautim.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Guitarra Elétrica",
+                    
+                    "Path": "LatinPop-guitarra-eletrica.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Maestro",
+                    
+                    "Path": "LatinPop-maestro.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                    "Path": "LatinPop-oboe.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Pandeireta",
+                    
+                    "Path": "LatinPop-pandeireta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Percussão",
+                    
+                    "Path": "LatinPop-percussao.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Pratos",
+                    
+                    "Path": "LatinPop-pratos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LatinPop-saxA1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LatinPop-saxA2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "LatinPop-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                    "Path": "LatinPop-saxT.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "LatinPop-timpanos-castanholas.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Castanholas",
+                    
+                    "Path": "LatinPop-timpanos-castanholas.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone Baixo",
+                    
+                    "Path": "LatinPop-trombone-baixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LatinPop-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LatinPop-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LatinPop-trompa1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LatinPop-trompa1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "LatinPop-trompa3-4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "IV",    
+                    
+                    "Path": "LatinPop-trompa3-4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LatinPop-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LatinPop-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "LatinPop-trompete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                        "Afinação": "Dó",    
+                    
+                        "Clave": "Fá"    
+                    
+                    "Path": "LatinPop-tuba.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Xilofone",
+                    
+                    "Path": "LatinPop-xilofone.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

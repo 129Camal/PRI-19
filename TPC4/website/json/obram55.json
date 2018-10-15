@@ -1,0 +1,228 @@
+
+        {"Id": "m55",
+        "Titulo": "La Tuba Bregosa",
+        "Tipo": "Ligeiro/Fantasia"
+        
+        
+        ,"Compositor": "J. Molina"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Bombo",
+                    
+                    "Path": "LaTuba-bombo-pratos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Pratos",
+                    
+                    "Path": "LaTuba-bombo-pratos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Caixa",
+                    
+                    "Path": "LaTuba-caixa.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "Solo",    
+                    
+                    "Path": "LaTuba-clarinete-solo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LaTuba-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LaTuba-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "LaTuba-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                    "Path": "LaTuba-eufonio.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Ferrinhos",
+                    
+                    "Path": "LaTuba-ferrinhos-pandeireta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Pandeireta",
+                    
+                    "Path": "LaTuba-ferrinhos-pandeireta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                    "Path": "LaTuba-flauta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fliscorne",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LaTuba-fliscorne1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fliscorne",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LaTuba-fliscorne2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Maestro",
+                    
+                    "Path": "LaTuba-maestro.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                    "Path": "LaTuba-oboe.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Requinta",
+                    
+                    "Path": "LaTuba-requinta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LaTuba-saxA1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LaTuba-saxA2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "LaTuba-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LaTuba-saxT1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LaTuba-saxT2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "LaTuba-timpanos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LaTuba-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LaTuba-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "LaTuba-trombone3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LaTuba-trompa1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LaTuba-trompa2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "LaTuba-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "LaTuba-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                    "Path": "LaTuba-tuba.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

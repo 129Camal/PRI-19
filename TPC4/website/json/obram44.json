@@ -1,0 +1,288 @@
+
+        {"Id": "m44",
+        "Titulo": "Vila Franca",
+        "Tipo": "Marcha de Concerto/Pasodoble"
+        
+        
+        ,"Compositor": "Jorge Salgueiro"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Bombo",
+                    
+                    "Path": "VilaFranca-bombo-pratos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Pratos",
+                    
+                    "Path": "VilaFranca-bombo-pratos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Castanholas",
+                    
+                    "Path": "VilaFranca-castanholas-tanta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tantã",
+                    
+                    "Path": "VilaFranca-castanholas-tanta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Alto",
+                    
+                    "Path": "VilaFranca-clarinete-alto.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Baixo",
+                    
+                    "Path": "VilaFranca-clarinete-baixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Contrabaixo",
+                    
+                    "Path": "VilaFranca-clarinete-contrabaixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "VilaFranca-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "VilaFranca-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "VilaFranca-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Contrabaixo",
+                    
+                    "Path": "VilaFranca-contrabaixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Cornetim",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "VilaFranca-cornetim1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Cornetim",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "VilaFranca-cornetim2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "VilaFranca-eufonio1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "VilaFranca-eufonio1-2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fagote",
+                    
+                    "Path": "VilaFranca-fagote.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                    "Path": "VilaFranca-flauta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flautim",
+                    
+                    "Path": "VilaFranca-flautim.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fliscorne",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "VilaFranca-fliscorne1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fliscorne",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "VilaFranca-fliscorne2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Lira",
+                    
+                    "Path": "VilaFranca-lira.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Maestro",
+                    
+                    "Path": "VilaFranca-maestro.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                    "Path": "VilaFranca-oboe.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Requinta",
+                    
+                    "Path": "VilaFranca-requinta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                    "Path": "VilaFranca-saxA.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "VilaFranca-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                    "Path": "VilaFranca-saxT.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tarola",
+                    
+                    "Path": "VilaFranca-tarola.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "VilaFranca-timpanos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone Baixo",
+                    
+                    "Path": "VilaFranca-trombone-baixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "VilaFranca-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "VilaFranca-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "VilaFranca-trompa1-3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "VilaFranca-trompa1-3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "VilaFranca-trompa2-4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "IV",    
+                    
+                    "Path": "VilaFranca-trompa2-4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "VilaFranca-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "VilaFranca-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                    "Path": "VilaFranca-tuba.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Violoncelo",
+                    
+                    "Path": "VilaFranca-violoncelo.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

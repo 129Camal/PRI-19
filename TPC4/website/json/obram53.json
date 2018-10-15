@@ -1,0 +1,350 @@
+
+        {"Id": "m53",
+        "Titulo": "Fantasma da Ópera",
+        "Tipo": "Abertura/Concerto"
+        
+        
+        ,"Compositor": "Andrew Lloyd Webber"
+        
+        ,"Arranjo de": "Johan de Meij"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Baixo Elétrico",
+                    
+                    "Path": "FantasmaOpera-baixo-eletrico.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                    "Path": "FantasmaOpera-clarinete.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "Solo",    
+                    
+                    "Path": "FantasmaOpera-clarinete-solo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Alto",
+                    
+                    "Path": "FantasmaOpera-clarinete-alto.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete Baixo",
+                    
+                    "Path": "FantasmaOpera-clarinete-baixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "FantasmaOpera-clarinete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "FantasmaOpera-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "FantasmaOpera-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Corne Inglês",
+                    
+                    "Path": "FantasmaOpera-corne-ingles.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fagote",
+                    
+                    "Path": "FantasmaOpera-fagote.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fagote",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "FantasmaOpera-fagote1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fagote",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "FantasmaOpera-fagote2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                    "Path": "FantasmaOpera-flauta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "FantasmaOpera-flauta1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "FantasmaOpera-flauta2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flautim",
+                    
+                    "Path": "FantasmaOpera-flautim.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Harpa",
+                    
+                    "Path": "FantasmaOpera-harpa-piano.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Piano",
+                    
+                    "Path": "FantasmaOpera-harpa-piano.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Maestro",
+                    
+                    "Path": "FantasmaOpera-maestro.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                    "Path": "FantasmaOpera-oboe.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "FantasmaOpera-oboe1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "FantasmaOpera-oboe2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Percussão",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "FantasmaOpera-percussao1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Percussão",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "FantasmaOpera-percussao2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Requinta",
+                    
+                    "Path": "FantasmaOpera-requinta.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "FantasmaOpera-saxA1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "FantasmaOpera-saxA2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "FantasmaOpera-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                    "Path": "FantasmaOpera-saxT.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "FantasmaOpera-timpanos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "FantasmaOpera-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "FantasmaOpera-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "FantasmaOpera-trombone3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "FantasmaOpera-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "FantasmaOpera-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "FantasmaOpera-trompete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                    "Path": "FantasmaOpera-trompa.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "FantasmaOpera-trompa1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "FantasmaOpera-trompa2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "FantasmaOpera-trompa3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "IV",    
+                    
+                    "Path": "FantasmaOpera-trompa4.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                        "Clave": "Fá"    
+                    
+                    "Path": "FantasmaOpera-tuba.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                        "Clave": "Sol"    
+                    
+                    "Path": "FantasmaOpera-tuba-sol.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Marimba",
+                    
+                    "Path": "FantasmaOpera-marimba-sinos-vibrafone-xilofone.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sinos",
+                    
+                    "Path": "FantasmaOpera-marimba-sinos-vibrafone-xilofone.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Vibrafone",
+                    
+                    "Path": "FantasmaOpera-marimba-sinos-vibrafone-xilofone.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Xilofone",
+                    
+                    "Path": "FantasmaOpera-marimba-sinos-vibrafone-xilofone.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

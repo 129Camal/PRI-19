@@ -1,0 +1,302 @@
+
+        {"Id": "m49",
+        "Titulo": "Tannhauser Ouverture",
+        "Tipo": "Abertura/Concerto"
+        
+        
+        ,"Compositor": "Richard Wagner"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Contrabaixo",
+                    
+                    "Path": "Tannhauser-contrabaixo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tannhauser-eufonio1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tannhauser-eufonio2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Afinação": "Dó",    
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tannhauser-eufonio2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Bombo",
+                    
+                    "Path": "Tannhauser-bombo-pratos-ferrinhos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Caixa",
+                    
+                    "Path": "Tannhauser-caixa.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Bateria",
+                    
+                    "Path": "Tannhauser-bateria.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tímpanos",
+                    
+                    "Path": "Tannhauser-timpanos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Pratos",
+                    
+                    "Path": "Tannhauser-bombo-pratos-ferrinhos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Ferrinhos",
+                    
+                    "Path": "Tannhauser-bombo-pratos-ferrinhos.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Maestro",
+                    
+                    "Path": "Tannhauser-maestro.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tannhauser-flauta1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Flauta",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tannhauser-flauta2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Cornetim",
+                    
+                        "Voz": "Solo",    
+                    
+                    "Path": "Tannhauser-cornetim-solo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Cornetim",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tannhauser-cornetim1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Cornetim",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tannhauser-cornetim2-3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Cornetim",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Tannhauser-cornetim2-3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "Solo",    
+                    
+                    "Path": "Tannhauser-clarinete-solo.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                    "Path": "Tannhauser-clarinete.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "Ia",    
+                    
+                    "Path": "Tannhauser-clarinete1a.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "Ib",    
+                    
+                    "Path": "Tannhauser-clarinete1b.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tannhauser-clarinete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Clarinete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Tannhauser-clarinete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Soprano",
+                    
+                    "Path": "Tannhauser-saxS.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "Tannhauser-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Tenor",
+                    
+                    "Path": "Tannhauser-saxT.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Sax Alto",
+                    
+                    "Path": "Tannhauser-saxA.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tannhauser-trombone1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tannhauser-trombone2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trombone",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Tannhauser-trombone3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tannhauser-trompa1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompa",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tannhauser-trompa2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "I",    
+                    
+                    "Path": "Tannhauser-trompete1.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "II",    
+                    
+                    "Path": "Tannhauser-trompete2.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Trompete",
+                    
+                        "Voz": "III",    
+                    
+                    "Path": "Tannhauser-trompete3.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Eufónio",
+                    
+                        "Voz": "V.antiga",    
+                    
+                    "Path": "Tannhauser-eufonio.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Tuba",
+                    
+                    "Path": "Tannhauser-tuba.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Fagote",
+                    
+                    "Path": "Tannhauser-fagote.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Oboé",
+                    
+                    "Path": "Tannhauser-oboe.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Pandeireta",
+                    
+                    "Path": "Tannhauser-pandeireta.pdf"
+                    }
+                    
+            ]
+        
+        }
+        

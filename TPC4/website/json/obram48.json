@@ -1,0 +1,28 @@
+
+        {"Id": "m48",
+        "Titulo": "Transfiguração",
+        "Tipo": "Marcha de Procissão"
+        
+        
+        ,"Compositor": "António Almeida da Silva"
+        
+        ,"Arranjo de": "Amílcar Morais"
+        
+            , "Instrumentos": [
+                
+                    {
+                    "Designação": "Sax Barítono",
+                    
+                    "Path": "Transfig-saxB.pdf"
+                    }
+                    ,
+                    {
+                    "Designação": "Maestro",
+                    
+                    "Path": "Transfig-maestro.pdf"
+                    }
+                    
+            ]
+        
+        }
+        
