@@ -1,0 +1,42 @@
+extends layout
+
+block corpo 
+    .w3-container
+        .w3-card-4
+            header.w3-container.w3-light-grey
+                h1 
+                    b=arq.titulo
+            .w3-container
+                h3="Gênero: "
+                    var= arq.tipo
+                if arq.compositor
+                    h3="Compositor: " 
+                        b=arq.compositor
+                if arq.arranjo
+                    h3="Arranjo de: "
+                        b=arq.arranjo
+                br
+
+                h5
+                    emp="Partituras disponíveis: "
+                if arq.instrumentos
+                    table.w3-table.w3-bordered.w3-stripped
+                        tr
+                            th Instrumento
+                            th Afinação
+                            th Voz
+                            th Clave
+                            th Documento
+                        each c in arq.instrumentos
+                            tr
+                                td= c.nome
+                                td= c.partitura.afinacao
+                                td= c.partitura.voz
+                                td= c.partitura.clave
+                                td= c.partitura.path
+
+            footer.w3-container.w3-light-grey
+                p
+                    a(href='http://localhost:5000/index')
+                        | Voltar à página principal
+                address Gerado por ArqMusApp by Camal

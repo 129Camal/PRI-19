@@ -1,0 +1,14 @@
+extends layout
+
+block corpo 
+    .w3-container
+        .w3-card-4
+            header.w3-container.w3-light-grey
+                h3 Arquivo Musical
+            .w3-container
+                ul
+                    each a in ind.index 
+                        li
+                            a(href='http://localhost:5000/musicas/' + a.ficheiro)= a.titulo
+            footer.w3-container.w3-light-grey
+                address Gerado por ArqMusApp by Camal

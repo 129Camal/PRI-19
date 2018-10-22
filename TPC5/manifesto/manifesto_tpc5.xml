@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifesto>
+   <meta nome="Manifesto TPC5">
+      <id>PRI2018::a73639::TPC5</id>
+      <título>Criação de um servidor em NodeJS para criar website com o Arquivo Musical</título>
+      <dfim>22 de Outubro 2018</dfim>
+      <supervisor>
+         <nome>José Carlos Ramalho</nome>
+         <email>jcr@di.uminho.pt</email>
+         <website>http://www4.di.uminho.pt/~jcr/</website>
+      </supervisor>
+   </meta>
+   <equipe>
+      <elemento>
+         <idelemento>a73639</idelemento>
+         <nome>Frederico Daniel Pereira Pinto</nome>
+         <email>a73639@alunos.uminho.pt</email>
+         <foto path= "frederico.png"/>
+      </elemento>
+   </equipe>
+   <resumo>
+      <para>Este trabalho tinha por objetivo criar um projeto em <i>NodeJS</i> que recebesse pedidos através da porta <i>5000</i> e respondesse com a página html correta e as suas necessidades sobre o <b>CSS</b>.</para>
+      <para>A linguagem utilizada para realizar o servidor foi o <b>Javascript</b>.</para>
+      <para>Associado ao servidor, estão vários ficheiros em <i>Pug</i> que são templates para a formação das páginas <i>html</i> através dos ficheiros fornecidos pelo professor em <i>Json</i>. Para criar o índice das obras, foi criada uma função que itera os ficheiros <i>Json</i> e extrai o título da obra e o nome do ficheiro e cria um ficheiro <i>index.json</i>.</para>
+   </resumo>
+   <resultados>
+      <resultado path = "../server.js">Servidor em NodeJS;</resultado>
+      <resultado path = "../package.json">Package.json do projeto;</resultado>
+      <resultado path = "../layout.pug">Layout Base em Pug;</resultado>
+      <resultado path = "../template.pug">Template em Pug referente a uma obra;</resultado>
+      <resultado path = "../index.pug">Template em Pug referente ao indice das obras;</resultado>
+      <resultado path = "../data/m2.json">Exemplo de obra em Json;</resultado>
+   </resultados>
+</manifesto>

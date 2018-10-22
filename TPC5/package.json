@@ -1,0 +1,15 @@
+{
+  "name": "tpc5",
+  "version": "1.0.0",
+  "description": "Trabalho de Casa nº5 - Website com informação em JSON",
+  "main": "server.js",
+  "scripts": {
+    "rm": "rm data/index.json",
+    "test": "node server.js"
+  },
+  "author": "Frederico Pinto",
+  "license": "ISC",
+  "dependencies": {
+    "pug": "^2.0.3"
+  }
+}
