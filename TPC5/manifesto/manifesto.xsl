@@ -46,7 +46,7 @@
         <tr>
             <td>
                 <ul>
-                    <li><xsl:value-of select="./idelemento"/> - <b><xsl:value-of select="./nome"/></b> <p>Email: <a href="mailto:{./email}"><xsl:value-of select="./email"/></a></p> <p>Link GitHub: <a href="https://github.com/129Camal/PRI-19/tree/master/TPC4">GitHub</a></p></li>
+                    <li><xsl:value-of select="./idelemento"/> - <b><xsl:value-of select="./nome"/></b> <p>Email: <a href="mailto:{./email}"><xsl:value-of select="./email"/></a></p> <p>Link GitHub: <a href="https://github.com/129Camal/PRI-19/tree/master/TPC5">GitHub</a></p></li>
                 </ul>
             </td>
             <td>
