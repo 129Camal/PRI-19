@@ -1,0 +1,27 @@
+extends layout
+
+block content
+    div.w3-sidebar.w3-bar-block.w3-teal(style="width:25%")
+        h3.w3-bar-item.w3-white
+            b Menu
+        a.w3-bar-item.w3-button.w3-white(href='http://localhost:4006/') Home
+        a.w3-bar-item.w3-button.w3-white(href='http://localhost:4006/registo') Registar Tese
+        a.w3-bar-item.w3-button.w3-white(href='http://localhost:4006/lista') Listas de Teses Registadas
+
+    div(style="margin-left:25%")
+        .w3-container(height="100%")
+            .w3-card-4
+                header.w3-container.w3-teal
+                    h3 Sistemas de Entregas de Teses
+                .w3-container
+                    br
+                    img(src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Minho_University.svg/400px-Minho_University.svg.png", style="margin-left:18%", height="350", width="750")
+                    br
+                    br
+                footer.w3-container.w3-teal
+                    table(width="100%", style="text-align:center")
+                        tr
+                            td
+                                a(href='http://localhost:4006/') Home
+                            td
+                                a(href='https://github.com/129Camal') Made By

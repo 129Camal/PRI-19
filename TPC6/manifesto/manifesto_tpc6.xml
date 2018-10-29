@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifesto>
+   <meta nome="Manifesto TPC6">
+      <id>PRI2018::a73639::TPC6</id>
+      <título>Criação de um servidor em NodeJS para criar um website para registo de Teses</título>
+      <dfim>29 de Outubro 2018</dfim>
+      <supervisor>
+         <nome>José Carlos Ramalho</nome>
+         <email>jcr@di.uminho.pt</email>
+         <website>http://www4.di.uminho.pt/~jcr/</website>
+      </supervisor>
+   </meta>
+   <equipe>
+      <elemento>
+         <idelemento>a73639</idelemento>
+         <nome>Frederico Daniel Pereira Pinto</nome>
+         <email>a73639@alunos.uminho.pt</email>
+         <foto path= "frederico.png"/>
+      </elemento>
+   </equipe>
+   <resumo>
+      <para>Este trabalho têm como objetivo criar um website que permite o resgisto de testes. Para isso foi criado um servidor em <i>NodeJS</i> e vários templates em <i>Pug</i> para representar o formulário e a informação já guardada no ficheiro <i>teses.json</i>.</para>
+   </resumo>
+   <resultados>
+      <resultado path = "../server.js">Servidor em NodeJS;</resultado>
+      <resultado path = "../package.json">Package.json do projeto;</resultado>
+      <resultado path = "../layout.pug">Layout Base em Pug;</resultado>
+      <resultado path = "../erro.pug">Template para apresentar o erro;</resultado>
+      <resultado path = "../form.pug">Template em Pug referente ao formulário;</resultado>
+      <resultado path = "../form-tese.pug">Template em Pug referente à pagina após registar;</resultado>
+      <resultado path = "../paginicial">Template em Pug referente à página inicial;</resultado>
+   </resultados>
+</manifesto>
