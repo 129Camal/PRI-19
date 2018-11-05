@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifesto>
+   <meta nome="Manifesto TPC7">
+      <id>PRI2018::a73639::TPC7</id>
+      <título>Criação de um servidor em NodeJS para envio de ficheiros</título>
+      <dfim>5 de Novembro 2018</dfim>
+      <supervisor>
+         <nome>José Carlos Ramalho</nome>
+         <email>jcr@di.uminho.pt</email>
+         <website>http://www4.di.uminho.pt/~jcr/</website>
+      </supervisor>
+   </meta>
+   <equipe>
+      <elemento>
+         <idelemento>a73639</idelemento>
+         <nome>Frederico Daniel Pereira Pinto</nome>
+         <email>a73639@alunos.uminho.pt</email>
+         <foto path= "frederico.png"/>
+      </elemento>
+   </equipe>
+   <resumo>
+      <para>Este trabalho têm como objetivo criar um website que o envio e registo de ficheiros. Para isso foi criado um servidor em <i>NodeJS</i> e vários templates em <i>Pug</i> para representar o formulário e a informação dos ficheiros para lá carregados.</para>
+      <para>Após enviar os ficheiros, o servidor guarda os dados do ficheiro num ficheiro <i>JSON</i> e o próprio ficheiro numa pasta. Esse ficheiro <i>JSON</i> é lido no template do formulário mostrando assim os ficheiros carregados anteriormente com possibilidade de os mostrar no browser.</para>
+      <para>Para além disso, é de salientar que este servidor consegue mostrar imagens e ficheiros <i>pdf</i>.</para>
+   </resumo>
+   <resultados>
+      <resultado path = "../server.js">Servidor em NodeJS;</resultado>
+      <resultado path = "../package.json">Package.json do projeto;</resultado>
+      <resultado path = "../layout.pug">Layout Base em Pug;</resultado>
+      <resultado path = "../erro.pug">Template para apresentar o erro;</resultado>
+      <resultado path = "../form-ficheiro.pug">Template em Pug referente ao formulário para enviar o ficheiro;</resultado>
+      <resultado path = "../form-recebido.pug">Template em Pug referente à pagina após envio do ficheiro;</resultado>
+   </resultados>
+</manifesto>

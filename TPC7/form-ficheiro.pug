@@ -1,0 +1,36 @@
+extends layout
+
+block content 
+    .w3-container
+        .w3-card-4
+            header.w3-container.w3-gray
+                h2 
+                    b Upload Files
+            .w3-container
+                form.w3-container(action='/processaForm', method='POST', enctype='multipart/form-data')
+                    label
+                        b File
+                    input.w3-input.w3-border.w3-light-grey(type='file', name='ficheiro' required)
+                    label
+                        b Description
+                    input.w3-input.w3-border.w3-light-grey(type='text', name='desc' required)
+                    input.w3-btn.w3-blue-grey(type='submit', value='Sent')
+                br
+                h5 
+                    b Sent Files:
+                table.w3-table-all.w3-centered
+                    tr
+                        th File
+                        th Description
+                    each img in lista
+                        tr
+                            td(width="50%")
+                                a(href="http://localhost:4007/uploaded?id="+img.ficheiro)= img.ficheiro
+                            td(width="50%")= img.desc
+                br
+            footer.w3-container.w3-gray
+                address
+                    table.w3-centered(width="100%")
+                        tr
+                            td
+                                a(href="https://github.com/129Camal") Made by Frederico Pinto
