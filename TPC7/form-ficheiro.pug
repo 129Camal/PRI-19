@@ -8,12 +8,15 @@ block content
                     b Upload Files
             .w3-container
                 form.w3-container(action='/processaForm', method='POST', enctype='multipart/form-data')
+                    br
                     label
                         b File
                     input.w3-input.w3-border.w3-light-grey(type='file', name='ficheiro' required)
+                    br
                     label
                         b Description
                     input.w3-input.w3-border.w3-light-grey(type='text', name='desc' required)
+                    br
                     input.w3-btn.w3-blue-grey(type='submit', value='Sent')
                 br
                 h5 
