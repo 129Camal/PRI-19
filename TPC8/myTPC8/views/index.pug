@@ -1,0 +1,27 @@
+extends layout
+
+block content
+  .w3-container
+    .w3-card-4
+      header.w3-container.w3-teal
+        h3 MyTPC8
+      .w3-container
+        form.w3-container(id="myTPC8Form")
+          fieldset
+            legend New File
+            input.w3-input.w3-border.w3-light-grey(id='fich' type='file' required)
+            br
+            legend Description
+            textarea.w3-input.w3-border.w3-light-grey(id='texto' rows='3' cols='80')
+            br
+            button.w3-button.w3-round-large.w3-teal(id='add') Add File
+        .w3-container
+          table.w3-table-all.w3-centered(id='ficheiros')
+          br
+      footer.w3-container.w3-teal
+        address
+          table.w3-centered(width="100%")
+            tr
+              td
+                a(href="https://github.com/129Camal") Made by Frederico Pinto
+  

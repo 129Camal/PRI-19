@@ -1,0 +1,8 @@
+tr
+    th(width="50%") Files
+    th(width="50%") Description
+each p in lista
+    tr
+        td(width="50%")
+            a(href="http://localhost:4008/open/"+p.filename)= p.filename
+        td(width="50%")= p.desc    
