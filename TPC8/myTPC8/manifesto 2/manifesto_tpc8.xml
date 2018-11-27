@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifesto>
+   <meta nome="Manifesto TPC8">
+      <id>PRI2018::a73639::TPC8</id>
+      <título>Criação de um servidor em NodeJS para envio de ficheiros utilizando AJAX e JQUERY</título>
+      <dfim>12 de Novembro 2018</dfim>
+      <supervisor>
+         <nome>José Carlos Ramalho</nome>
+         <email>jcr@di.uminho.pt</email>
+         <website>http://www4.di.uminho.pt/~jcr/</website>
+      </supervisor>
+   </meta>
+   <equipe>
+      <elemento>
+         <idelemento>a73639</idelemento>
+         <nome>Frederico Daniel Pereira Pinto</nome>
+         <email>a73639@alunos.uminho.pt</email>
+         <foto path= "frederico.png"/>
+      </elemento>
+   </equipe>
+   <resumo>
+      <para>Este trabalho têm como objetivo criar um website que o envio e registo de ficheiros. Para isso foi criado um servidor em <i>NodeJS</i> e vários templates em <i>Pug</i> para representar o formulário e a informação dos ficheiros para lá carregados.</para>
+      <para>Foi também criado um script em JQUERY utilizando AJAX que trata de atualizar o cliente quando este introduz informação, sem fazer pedidos ao servidor de novas páginas.</para>
+      <para>Contudo, não foi possivel para mim resolver todo o enunciado.</para>
+      <para>Foram surgindo vários problemas para a qual não consegui encontrar solução. Sendo o principal, o envio do ficheiro utilizando AJAX para ser guardado pelo servidor.</para>
+      <para>Contudo, este projeto, envia para o servidor informação sobre a descrição e sobre o ficheiro para ser guardado num ficheiro <i>JSON</i> que serve de base de dados.<para>
+   </resumo>
+   <resultados>
+      <resultado path = "../app.js">App.js;</resultado>
+      <resultado path = "../package.json">Package.json do projeto;</resultado>
+      <resultado path = "../views/layout.pug">Layout Base em Pug;</resultado>
+      <resultado path = "../views/lista.pug">Template para inserir elementos na tabela na página principal;</resultado>
+      <resultado path = "../views/index.pug">Template em Pug referente à página principal;</resultado>
+      <resultado path = "../routes/index.js">Ficheiro que trata dos pedidos recebidos pelo servidor;</resultado>
+      <resultado path = "../public/javascripts/mytpc8.js">Ficheiro referente ao JQUERY e AJAX no cliente;</resultado>
+   </resultados>
+</manifesto>
