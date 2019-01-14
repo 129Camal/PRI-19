@@ -1,0 +1,12 @@
+tr
+    th(width="25%") Texto
+    th(width="25%") Autor
+    th(width="25%") Hash
+    th(width="25%") Botão Like
+each p in lista
+    tr
+        td(width="25%")= p.texto
+        td(width="25%")= p.autor
+        td(width="25%")= p.hash
+        td(width="25%")
+            button.w3-button.w3-round-large.w3-teal(id='like')= p.likes

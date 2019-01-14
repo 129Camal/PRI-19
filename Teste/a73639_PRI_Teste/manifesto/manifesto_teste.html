@@ -1,0 +1,84 @@
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Teste</title>
+      <meta charset="UTF-8">
+   </head>
+   <body>
+      
+      <h1 style="text-align:center;">Manifesto do Teste</h1>
+      <hr>
+      <hr>
+      <table width="100%" style="text-align:center;">
+         <tr>
+            <td><b>Key Name: </b>PRI2018::a73639::Teste
+            </td>
+            <td><b>Title: </b> Teste da Disciplina
+            </td>
+         </tr>
+         <tr>
+            <td><b>Date: </b>14 de Janeiro 2019
+            </td>
+            <td><b>Supervisor: </b><a href="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</a></td>
+         </tr>
+      </table>
+      <hr>
+      <hr>
+      
+      <h2>WorkTeam:</h2>
+      <table width="100%">
+         
+         <tr>
+            <td>
+               <ul>
+                  <li>a73639 - <b>Frederico Daniel Pereira Pinto</b><p>Email: <a href="mailto:a73639@alunos.uminho.pt">a73639@alunos.uminho.pt</a></p>
+                     <p>Link GitHub: <a href="https://github.com/129Camal">GitHub</a></p>
+                  </li>
+               </ul>
+            </td>
+            <td><img src="frederico.png" width="120" height="120"></td>
+         </tr>
+         
+      </table>
+      <hr>
+      <hr>
+      
+      <h2>Abstract:</h2>
+
+      <p><b>MyTwitter</b></p>
+      <p> Basicamente para resolver este exercicio comecei por fazer uns templates em <i>pug</i> para visualizar.</p>
+      <p> Após isso, desenvolvi umas funções no routeador(GET e POST) para receber os pedidos do cliente. Para além disso também utilizei JQuery e AJAX para atualizar a página do cliente sem necessidade de pedidos. Quando o post é aplicado, o servidor recebe a informação mas não precisa de atualizar o cliente.</p>
+      <p> Foi criada uma base de dados que é um ficheiro JSON onde o servidor guarda a informação quando recebe um POST do cliente e o cliente recebe a informação quando faz um pedido.</p>
+      <p> Tentei implementar o botão do gosto mas não correu bem, contudo ele é inserido mas não atualiza o número de gostos.</p>
+
+      <p><b>MyStrava</b></p>
+      <p>Para resolver este exercício comecei por aplicar a função que o professor forneceu para obter o dataset.</p>
+      <p>Para otimizar a inserção na base de dados (MongoDB), arranjei o dataset, eliminando a lista JSON e todos os dados não necessários, deixando apenas a distância, o tipo, a data e o tempo de movimento.</p>
+      <p>Após isso foram criados os modelos e os controladores. Após isso, foi criada a rota API para poder receber os pedidos do cliente e responder, com informação válida como pedido.</p>
+      <p>Para correr esta aplicação terá que se ligar à base de dados MongoDB, utilizando uma database com nome "myStravazinho" e com a colecção "informacao".
+      <hr>
+      <hr>
+      
+      <h2>Deliverables:</h2>
+      <ul>
+         
+         <li><a href="../myTwitter/views">Templates para o MyTwitter;</a></li>
+         
+         <li><a href="../myTwitter/routes">Rota e Base de Dados para o MyTwitter;</a></li>
+         
+         <li><a href="../myTwitter/public/javascripts/myTwitter.js">Ficheiro JQuery para o MyTwitter;</a></li>
+
+         <li><a href="../myStrava/dumpStrava.json">DataSet tratado para o MyStrava;</a></li>
+         
+         <li><a href="../myStrava/controllers/ativ.js">Controlador para a Atividade;</a></li>
+
+         <li><a href="../myStrava/models/ativ.js">Modelo para a Atividade;</a></li>
+         
+         <li><a href="../myStrava/routes/api/ativ.js">Rota API pedida para o MyStrava;</a></li>
+   
+      </ul>
+      <hr>
+      <hr>
+      
+   </body>
+</html>

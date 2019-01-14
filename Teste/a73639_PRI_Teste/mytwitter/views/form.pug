@@ -1,0 +1,32 @@
+extends layout
+
+block content
+  .w3-container
+    .w3-card-4
+      header.w3-container.w3-teal
+        h3 MyTwitter
+      .w3-container
+        form.w3-container
+          fieldset Nova Entrada:
+            legend Texto
+            textarea.w3-input.w3-border.w3-light-grey(id='texto' rows='3' cols='80')
+            br
+            legend Autor
+            textarea.w3-input.w3-border.w3-lights-grey(id='autor' rows='3' cols='80')
+            br
+            legend Palavra-chave/Hash:
+            textarea.w3-input.w3-border.w3-light-grey(id='hash' rows='3' cols='80')
+            br
+            button.w3-button.w3-round-large.w3-teal(id='adicionar') Adicionar
+        br
+        .w3-container
+          fieldset Discussões
+            table.w3-table-all.w3-centered(id='posts')
+            br
+      footer.w3-container.w3-teal
+        address
+          table.w3-centered(width="100%")
+            tr
+              td
+                a(href="https://github.com/129Camal") Made by Frederico Pinto
+  
